@@ -44,8 +44,6 @@ To explore the dashboard:
 
 For inquiries and collaborations, feel free to reach out to **Harsh Banugariya**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Banugariya-blue)](https://www.linkedin.com/in/harsh-banugariya) [![Email](https://img.shields.io/badge/Email-harsh@example.com-red)](mailto:harsh@example.com)
-
 ---
 
 ## Contact
