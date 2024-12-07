@@ -45,7 +45,3 @@ To explore the dashboard:
 For inquiries and collaborations, feel free to reach out to **Harsh Banugariya**.
 
 ---
-
-## Contact
-
-For inquiries and collaborations, feel free to reach out to **Harsh Banugariya**.
