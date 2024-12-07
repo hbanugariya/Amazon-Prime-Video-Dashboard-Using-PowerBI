@@ -3,8 +3,7 @@
 ## Preview
 
 ### Amazon Prime Video Dashboard Preview
-
-![Dashboard Screenshot]![Amazon_Prime_Dashboard](https://github.com/user-attachments/assets/91b636e7-f4d5-42c0-b32d-ba2b9c346fc0)
+[Amazon_Prime_Dashboard](https://github.com/user-attachments/assets/91b636e7-f4d5-42c0-b32d-ba2b9c346fc0)
 
 ---
 
@@ -44,5 +43,3 @@ To explore the dashboard:
 ## Contact
 
 For inquiries and collaborations, feel free to reach out to **Harsh Banugariya**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Banugariya-blue)](https://www.linkedin.com/in/harsh-banugariya) [![Email](https://img.shields.io/badge/Email-harsh@example.com-red)](mailto:harsh@example.com)
